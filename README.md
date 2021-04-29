@@ -1,4 +1,4 @@
-# WOL-mit-Intel-NIC
+# WOL mit Intel NIC
 Wenn das Aufwecken trotz richtiger BIOS Einstellungen nicht funktoniert gibt es mehre Punkte, die überprpft/eingestellt werden müssen:
 + der Punkt **"Akt. bei Musterübereinstimmung"** – der muss **deaktiviert** werden. In englischen Treibern heißt der Punkt "**Pattern Match**"
 + **"PME aktivieren"** - **"Aktiviert"**
