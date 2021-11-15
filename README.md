@@ -7,6 +7,7 @@ Wenn das Aufwecken trotz richtiger BIOS Einstellungen nicht funktoniert gibt es 
 <img width="400" alt="wol-02" src="https://user-images.githubusercontent.com/35377000/116542755-4f889a00-a8ed-11eb-8757-447ed3dc9ac6.png">
 <img width="400" alt="wol-03" src="https://user-images.githubusercontent.com/35377000/116552450-53221e00-a8f9-11eb-88f3-38fb5e26bf9d.png">
 Das ganze ist Treiber-Abhängig. Es müssen nicht alle Punkte vorhanden sein und es kann trotzdem funktionieren.
+
 Manchmal muss man einen älteren Treiber benutzen.
 
 Es müssen nicht unbediengt die "PRO Treiber" installiert werden
